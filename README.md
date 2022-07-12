@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chander Mohan
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React & C-Sharp
 - 💞️ I’m looking to collaborate on Google Repositories
 - 📫 How to reach me 📧 mchander20@gmail.com
 
